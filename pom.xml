@@ -493,6 +493,8 @@
                         <source>${java-compiler.version}</source>
                         <encoding>UTF-8</encoding>
                     </configuration>
+                    
+                    
                 </plugin>
 
             </plugins>
